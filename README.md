@@ -3,7 +3,7 @@
 ### About Me
 Software Engineer working on Data Platforms. 
 
-### Programing (Most-Least Joy)
+### Programming (Most-Least Joy)
 - Clojure/ClojureScript
 - Elixir
 - Python
